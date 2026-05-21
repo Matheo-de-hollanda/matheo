@@ -16,3 +16,6 @@ Este es el link del proyecto: [(https://github.com/Matheo-de-hollanda/matheo/blo
 3. tercero
 Para iniciar un proyecto de git ejecuta `git init`
    
+
+Nombre | apellido | edad |
+Matheo |  de Hollanda| 21|
