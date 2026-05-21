@@ -14,4 +14,5 @@ Este es el link del proyecto: [(https://github.com/Matheo-de-hollanda/matheo/blo
 1. Primero
 2. segundo
 3. tercero
+Para iniciar un proyecto de git ejecuta `git init`
    
