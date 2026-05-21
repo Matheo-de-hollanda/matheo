@@ -18,4 +18,4 @@ Para iniciar un proyecto de git ejecuta `git init`
    
 
 Nombre | apellido | edad |
-Matheo |  de Hollanda| 21|
+Matheo   de Hollanda 21
